@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lock files
+package-lock.json
+
+# Git and build folders
+.git/
+dist/
+build/
+
+# IDE and editor configs
+.vscode/
+.idea/
